@@ -6,7 +6,6 @@ import pagesObject.SearchListPO;
 import tests.TestBase;
 import utility.SeleniumHelpers;
 
-import java.text.ParseException;
 import java.util.List;
 
 public class searchListSteps extends TestBase{
